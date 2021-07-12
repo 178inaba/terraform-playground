@@ -1,5 +1,8 @@
 # Terraform Playground
 
+Do you like [Terraform](https://www.terraform.io/)?
+I like it!
+
 ## License
 
 [MIT](LICENSE)
